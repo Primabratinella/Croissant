@@ -1,7 +1,7 @@
 :root {
   --primary-color: #6c63ff;
-  --secondary-color: #f5f2fe;
-  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  --secondary-color: #8c69fc;
+  --box-shadow: 0 5px 10px rgba(138, 29, 29, 0.925);
 }
 
 body {
@@ -11,8 +11,7 @@ body {
 }
 
 h1,
-h2
-{
+h2 {
   text-align: center;
   margin: 0;
 }

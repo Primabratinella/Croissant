@@ -27,7 +27,7 @@ h2 {
 }
 
 p {
-  background: var(--primary-color);
+  background: var(--secondary-color);
   font-size: 20px;
   line-height: 1.5;
   text-align: center;
@@ -58,15 +58,6 @@ p {
   color: var(--primary-color);
   text-align: center;
   display: block;
-}
-
-.about-paragraphs {
-  display: flex;
-  margin: 30px 0;
-}
-
-.about-paragraphs p {
-  margin: 10px;
 }
 
 .email-link {

@@ -7,7 +7,7 @@
 body {
   margin: 60px auto;
   max-width: 800px;
-  background-color: #f5f2fe;
+  background-color: #c40c84;
 }
 
 h1,
@@ -28,11 +28,11 @@ h2 {
 
 p {
   background: var(--secondary-color);
-  padding: 20px;
-  border-radius: 4px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.5;
   text-align: center;
+  padding: 20px;
+  border-radius: 4px;
 }
 
 .navigation-links {
@@ -43,10 +43,9 @@ p {
 
 .navigation-links a {
   margin: 20px;
-  border-radius: 4px;
+  border-radius: 5px;
   padding: 20px 15px;
   text-decoration: none;
-  text-transform: capitalize;
 }
 
 .contact-link {

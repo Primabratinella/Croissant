@@ -1,13 +1,13 @@
 :root {
   --primary-color: #c40c96;
-  --secondary-color: #f5f2fe;
+  --secondary-color: #ffffff;
   --box-shadow: 0 5px 10px #06b690;
 }
 
 body {
   margin: 60px auto;
   max-width: 800px;
-  background-color: #c40c84;
+  background-color: #06b690;
 }
 
 h1,
